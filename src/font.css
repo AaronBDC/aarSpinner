@@ -1,0 +1,24 @@
+/* File: font.css */
+
+@font-face {
+    font-family: 'FiraCodeiScript';
+    src: local('FiraCodeiScript'),
+         url('./fonts/FiraCodeiScript-Regular.ttf') format('ttf'),
+}
+@font-face {
+    font-family: 'FiraCodeiScriptItalic';
+    src: local('FiraCodeiScriptItalic'),
+         url('./fonts/FiraCodeiScript-Italic.ttf') format('ttf'),
+}
+@font-face {
+    font-family: 'FiraCodeiScriptBold';
+    src: local('FiraCodeiScriptBold'),
+         url('./fonts/FiraCodeiScript-Bold.ttf') format('ttf'),
+}
+
+@font-face {
+    font-family: 'joystix';
+    src: local('joystix'),
+         url('./fonts/joystix monospace.otf') format('otf'),
+         url('./fonts/joystix monospace.ttf') format('ttf'),
+}

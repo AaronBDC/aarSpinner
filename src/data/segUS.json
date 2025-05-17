@@ -1,0 +1,48 @@
+
+{
+    "name": "Taco Bell",
+    "stats": {
+        "url": "https://dooordash/tb",
+        "category": {
+            "cuisine": "Mexican",
+            "stars": 3
+        }
+    }
+},
+{
+    "name": "Chipotle",
+    "stats": {
+        "url": "https://dooordash/chipotle",
+        "category": {
+            "cuisine": "Mexican",
+            "stars": 5
+        }
+    }
+}
+,
+{
+    "name": "Popeyes",
+    "aka": "Popeyes CHICKEN and BISCUITS",
+    "stats": {
+        "urlDD": "https://dooordash/popeys",
+        "category": {
+            "cuisine": "Mexican",
+            "stars": 5,
+            "slogan1":"Love that Chicken from Popeyes. Taste like New Orleans.",
+		    "slogan2":"We don't make sense. We make chicken!",
+
+        }
+    }
+}
+,
+{
+    "name": "Chipotle",
+    "stats": {
+        "url": "https://dooordash/chipotle",
+        "category": {
+            "cuisine": "Mexican",
+            "stars": 5
+        }
+    }
+}
+
